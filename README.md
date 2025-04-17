@@ -67,7 +67,7 @@ npm install
 ts-node src/testRunner
 ```
 
-Or call `processFormSubmission()` programmatically.
+Or call `processFormSubmission(Form, CustomerConfig)` programmatically.
 
 ### Running Tests
 
